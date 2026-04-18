@@ -65,7 +65,7 @@ Understanding the modularity of networking through the TCP/IP model:
 3.  **Network (L3):** End-to-end delivery across networks using **IP Addresses** (IPv4/IPv6).
 4.  **Data Link (L2):** Hop-to-hop delivery within a LAN using **MAC Addresses**.
 5.  **Physical (L1):** The actual transmission of bits over the medium.
-<img width="713" height="541" alt="image" src="https://github.com/user-attachments/assets/4dcab50a-b6bd-4a10-b396-8460ead6d04d" />
+<img width="710" height="531" alt="image" src="https://github.com/user-attachments/assets/6e685e8a-7d30-47b9-b748-e3a2ac14e52e" />
 
 ### **Encapsulation: The "Russian Doll" of Data**
 As data travels down the stack, each layer adds its own header (and a trailer at L2). This process is called **Encapsulation**.
@@ -73,7 +73,7 @@ As data travels down the stack, each layer adds its own header (and a trailer at
 *   **L3 PDU:** Packet
 *   **L2 PDU:** Frame
 *   **L1 PDU:** Bits
-<img width="710" height="531" alt="image" src="https://github.com/user-attachments/assets/6e685e8a-7d30-47b9-b748-e3a2ac14e52e" />
+<img width="713" height="541" alt="image" src="https://github.com/user-attachments/assets/4dcab50a-b6bd-4a10-b396-8460ead6d04d" />
 
 ---
 *“The best way to predict the future is to create it.” – This repository is my first step toward becoming a Network Engineer.*
