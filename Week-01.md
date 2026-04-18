@@ -53,7 +53,7 @@ Precision in measurement is vital for network performance analysis:
 ### **3. Smart Connectivity: Auto MDI-X**
 Historically, we needed **Straight-through** cables for different devices and **Crossover** cables for similar ones. Modern networking utilizes **Auto MDI-X**, which automatically detects and configures the required pinout, reducing physical layer deployment errors.
 <img width="394" height="203" alt="スクリーンショット 2026-04-18 071859" src="https://github.com/user-attachments/assets/a7550b29-6c4f-4eeb-8135-687b36347d4e" />
-<img width="189" height="173" alt="スクリーンショット 2026-04-18 071847" src="https://github.com/user-attachments/assets/3c2712f7-c2b7-4b4e-bb93-d6ac3a516ef0" />
+<img width="629" height="279" alt="スクリーンショット 2026-04-18 072117" src="https://github.com/user-attachments/assets/e69c881a-ef64-44f0-8bf8-1cd1a0d3f391" />
 <img width="583" height="312" alt="image" src="https://github.com/user-attachments/assets/be24d7a5-328c-461e-87c0-10b5783a5be6" />
 
 ---
@@ -71,6 +71,7 @@ Understanding the modularity of networking through the TCP/IP model:
 3.  **Network (L3):** End-to-end delivery across networks using **IP Addresses** (IPv4/IPv6).
 4.  **Data Link (L2):** Hop-to-hop delivery within a LAN using **MAC Addresses**.
 5.  **Physical (L1):** The actual transmission of bits over the medium.
+<img width="713" height="541" alt="image" src="https://github.com/user-attachments/assets/4dcab50a-b6bd-4a10-b396-8460ead6d04d" />
 
 ### **Encapsulation: The "Russian Doll" of Data**
 As data travels down the stack, each layer adds its own header (and a trailer at L2). This process is called **Encapsulation**.
@@ -78,7 +79,7 @@ As data travels down the stack, each layer adds its own header (and a trailer at
 *   **L3 PDU:** Packet
 *   **L2 PDU:** Frame
 *   **L1 PDU:** Bits
-<img width="629" height="279" alt="スクリーンショット 2026-04-18 072117" src="https://github.com/user-attachments/assets/e69c881a-ef64-44f0-8bf8-1cd1a0d3f391" />
+<img width="710" height="531" alt="image" src="https://github.com/user-attachments/assets/6e685e8a-7d30-47b9-b748-e3a2ac14e52e" />
 
 ---
 *“The best way to predict the future is to create it.” – This repository is my first step toward becoming a Network Engineer.*
