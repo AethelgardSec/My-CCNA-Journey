@@ -6,13 +6,7 @@ Welcome to my CCNA study repository! As a high school student passionate about n
 
 ---
 
-## 📑 Table of Contents
-1. [Day 1: Introduction to Networking](#day-1-introduction-to-networking)
-2. [Day 2: Interfaces and Cables](#day-2-interfaces-and-cables)
-3. [Day 3: The TCP/IP Model](#day-3-the-tcpip-model)
----
-
-## 🌐 Day 1: Introduction to Networking
+##  Day 1: Introduction to Networking
 *Foundational concepts of how data moves across digital landscapes.*
 
 ### **Core Definitions**
