@@ -28,6 +28,7 @@ A **Network** is more than just connected computers; it is a digital ecosystem a
     *   **Firewalls:** Security sentinels (Hardware or Software) that filter traffic based on defined security postures.
 
 > **Key Insight:** Switching happens *inside* the LAN; Routing happens *between* LANs.
+<img width="660" height="800" alt="image" src="https://github.com/user-attachments/assets/a2614235-093f-4890-aab7-feb4114ff7a0" />
 
 ---
 
@@ -51,6 +52,7 @@ Precision in measurement is vital for network performance analysis:
 
 ### **3. Smart Connectivity: Auto MDI-X**
 Historically, we needed **Straight-through** cables for different devices and **Crossover** cables for similar ones. Modern networking utilizes **Auto MDI-X**, which automatically detects and configures the required pinout, reducing physical layer deployment errors.
+<img width="394" height="203" alt="スクリーンショット 2026-04-18 071859" src="https://github.com/user-attachments/assets/a7550b29-6c4f-4eeb-8135-687b36347d4e" />
 
 ---
 
@@ -74,6 +76,7 @@ As data travels down the stack, each layer adds its own header (and a trailer at
 *   **L3 PDU:** Packet
 *   **L2 PDU:** Frame
 *   **L1 PDU:** Bits
+<img width="629" height="279" alt="スクリーンショット 2026-04-18 072117" src="https://github.com/user-attachments/assets/e69c881a-ef64-44f0-8bf8-1cd1a0d3f391" />
 
 ---
 *“The best way to predict the future is to create it.” – This repository is my first step toward becoming a Network Engineer.*
