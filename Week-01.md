@@ -54,6 +54,7 @@ Precision in measurement is vital for network performance analysis:
 Historically, we needed **Straight-through** cables for different devices and **Crossover** cables for similar ones. Modern networking utilizes **Auto MDI-X**, which automatically detects and configures the required pinout, reducing physical layer deployment errors.
 <img width="394" height="203" alt="スクリーンショット 2026-04-18 071859" src="https://github.com/user-attachments/assets/a7550b29-6c4f-4eeb-8135-687b36347d4e" />
 <img width="189" height="173" alt="スクリーンショット 2026-04-18 071847" src="https://github.com/user-attachments/assets/3c2712f7-c2b7-4b4e-bb93-d6ac3a516ef0" />
+<img width="583" height="312" alt="image" src="https://github.com/user-attachments/assets/be24d7a5-328c-461e-87c0-10b5783a5be6" />
 
 ---
 
