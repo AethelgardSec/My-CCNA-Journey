@@ -51,7 +51,6 @@ Historically, we needed **Straight-through** cables for different devices and **
 <img width="583" height="312" alt="image" src="https://github.com/user-attachments/assets/be24d7a5-328c-461e-87c0-10b5783a5be6" />
 
 ---
-
 ## 🏗 Day 3: The TCP/IP Model
 *The Architectural Blueprint of the Internet.*
 
